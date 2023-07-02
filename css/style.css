@@ -5,7 +5,9 @@
     --light: #EFFDF5;
     --dark: #2B3940;
 }
-
+body{
+    width:100%;
+}
 .back-to-top {
     position: fixed;
     display: none;
